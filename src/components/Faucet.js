@@ -37,7 +37,7 @@ const Faucet = (props) => {
         <div>
         <Card style={{background: "rgba(227, 104, 222, 0.71)"}}>
         <Card.Body>
-        <Card.Subtitle>recieve faucet ERC20 to your wallet
+        <Card.Subtitle>check balance erc20 of your wallet
         </Card.Subtitle><br></br>
         <div className="d-grid gap-2">
         <Button onClick={faucet}>get faucet token!</Button>
