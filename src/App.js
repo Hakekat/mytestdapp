@@ -13,10 +13,8 @@ function App() {
   return (
     <div className="App">
       <Col>
-      <Faucet  tokenContract={Token}/>
       </Col>
       <Col>
-      <TokenSend tokenContract={Token}/>
       </Col>
       <Col>
       </Col>
